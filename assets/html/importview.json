@@ -1,0 +1,1 @@
+{"imphtml":"<body><div id='test'>{{ name }}</div><script tpye='text/javascript'>var model = {name: '홍길동'}var vm = new Vue({el: '#test',data: model})</script></body>'"}
